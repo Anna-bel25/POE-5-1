@@ -1,2 +1,2 @@
 # POE-5-1
-Docencia programación orientada a Eventos
+Estudiante de programación orientada a Eventos
